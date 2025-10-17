@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nixilum&label=Profile%20views&color=0e75b6&style=flat" alt="nixilum" /> </p>
 
-<p align="center"><strong>⚠️ this is an alternative account of <a href="https://github.com/techplayz32">@techplayz32</a></strong></p>
 <p align="center"><strong>i am using this account for personal and private projects.. maybe also contribute to OSS?</strong></p>
 
 <p align="center">i put the most important stuff here. this README is not a resume. you can check what languages i use in my repositories</p>
